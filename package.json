@@ -1,0 +1,23 @@
+{
+  "name": "yestravel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d website"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesharon/yestravel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yesharon/yestravel/issues"
+  },
+  "homepage": "https://yesharon.github.io/yestravel",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
